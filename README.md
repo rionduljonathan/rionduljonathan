@@ -1,15 +1,15 @@
 Hi there! I'm Rio 👋
 
-- 🌱 BASc Environmental Engineering @ University of British Columbia — Focused on Sustainable Systems, Data, and Design
-- 🤝 Co-Lead for Data & Marketing @ UBC Sustaingineering — Integrating data-monitoring software into sustainable mobile research testbeds
-- 🧠 Built Engram — A semantic AI memory layer connecting workspace apps and making company data searchable. Deployed as B2B SaaS on Vercel *(TechTO x Althra 2026 Hackathon Finalist)*
-- 🥈 UBC 46th Physics Olympics — 2nd place in BC, designed a copper thermal cooling device with a 9-member team
-- 🏥 Co-founded M.E.C.H, a health-focused non-profit — raised $3000 and grew to 15+ members across BC and PEI
+- BASc Environmental Engineering @ University of British Columbia. Focused on Sustainable Systems, Data, and Design.
+- Co-Lead for Data & Marketing @ UBC Sustaingineering. Integrating data-monitoring software into sustainable research testbeds.
+- Engram founder; a semantic AI memory layer connecting workspace apps, making company data searchable. 
+  Deployed as B2B SaaS on Vercel and made finals in TechTO x Althra 2026 Hackathon.
+- UBC 46th Physics Olympics, won 2nd place in BC. Designed a copper thermal cooling device with a 9-member team.
+- Co-founded M.E.C.H, a health awareness non-profit which raised $3000 and grew to 30+ members across BC and PEI.
 
 ---
 
 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +28,5 @@ Tech Stack
 ---
 
 Connect
-
 [![Email](https://img.shields.io/badge/rionduljonathan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rionduljonathan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-jonathan-03060331b)
