@@ -1,7 +1,7 @@
 Hi there! I'm Rio 👋
 
 - **BASc Environmental Engineering @ University of British Columbia.** Focused on sustainable systems, data, and design.
-- Interned at [Riipen](https://www.riipen.com/). Implemented HTML website design, grant research, and media expansion for startup companies.
+- Interned @ [Riipen](https://www.riipen.com/). Implemented HTML website design, grant research, and media expansion for startup companies.
 
 ---
 
