@@ -1,6 +1,6 @@
-Hi there! I'm Rio 👋
+Hey there! I'm Rio 👋
 
-- **BASc Environmental Engineering @UBC.** Focused on sustainable systems, data, and design.
+- **BASc Environmental Engineering @ubc.** Focused on sustainable systems, data, and design.
 - Intern @[Riipen](https://www.riipen.com/). Implemented HTML website design, grant research, and media expansion for startup companies.
 
 ---
