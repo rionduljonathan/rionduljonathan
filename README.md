@@ -1,10 +1,11 @@
 Hi there! I'm Rio 👋
 
-- BASc Environmental Engineering @ University of British Columbia. Focused on Sustainable Systems, Data, and Design.
+- BASc Environmental Engineering @ University of British Columbia. Focused on sustainable Systems, data, and design.
 - Co-Lead for Data & Marketing @ UBC Sustaingineering. Integrating data-monitoring software into sustainable research testbeds.
+- Interned at Riipen. Implemented HTML website design, grant research, and media expansion for startup companies.
 - Engram founder; a semantic AI memory layer connecting workspace apps, making company data searchable. 
   Deployed as B2B SaaS on Vercel and made finals in TechTO x Althra 2026 Hackathon.
-- UBC 46th Physics Olympics, won 2nd place in BC. Designed a copper thermal cooling device with a 9-member team.
+- Won 2nd place at UBC 46th Physics Olympics. Designed a copper thermal cooling device with a 9-member team.
 - Co-founded M.E.C.H, a health awareness non-profit which raised $3000 and grew to 30+ members across BC and PEI.
 
 ---
