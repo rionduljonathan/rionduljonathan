@@ -1,29 +1,33 @@
-Here's a revamped README based on your actual resume:
-markdown# Hi there! I'm Rio 👋
+Hi there! I'm Rio 👋
 
-I'm an Environmental Engineering student at UBC bridging sustainable 
-engineering with real-world software and design applications.
+- 🌱 BASc Environmental Engineering @ University of British Columbia — Focused on Sustainable Systems, Data, and Design
+- 🤝 Co-Lead for Data & Marketing @ UBC Sustaingineering — Integrating data-monitoring software into sustainable mobile research testbeds
+- 🧠 Built Engram — A semantic AI memory layer connecting workspace apps and making company data searchable. Deployed as B2B SaaS on Vercel *(TechTO x Althra 2026 Hackathon Finalist)*
+- 🥈 UBC 46th Physics Olympics — 2nd place in BC, designed a copper thermal cooling device with a 9-member team
+- 🏥 Co-founded M.E.C.H, a health-focused non-profit — raised $3000 and grew to 15+ members across BC and PEI
 
-### 🛠️ Technical Toolkit
-* **Languages:** Python, C, HTML, Excel VBA, MATLAB
-* **Design & Viz:** Power BI, SolidWorks, AutoCAD, Ansys, Canva
-* **Tools & Platforms:** Supabase, Vercel, Notion, Git
+---
 
-### 🚀 Projects & Leadership
-* **UBC Sustaingineering:** Co-Lead for Data & Marketing — optimizing 
-  UI/UX and integrating data-monitoring software into sustainable 
-  mobile research testbeds (SMRTs).
-* **Engram (TechTO x Althra Hackathon Finalist):** Built a semantic AI 
-  memory layer connecting workspace apps and making company data 
-  searchable. Deployed as a B2B SaaS on Vercel.
-* **UBC Physics Olympics:** 2nd place in BC — designed a copper thermal 
-  cooling device in a 9-member team.
+Tech Stack
 
-### 💼 Experience
-* **Riipen LABS** — Technical Strategy Lead
-* **M.E.C.H Non-Profit** — Co-founder, Marketing Head & Fundraiser
-* **Fraser Health** — Health Ambassador
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌱 Beyond the Code
-* Passionate about sustainable systems and making data actually useful
-* Based in Vancouver, BC
+---
+
+Connect
+
+[![Email](https://img.shields.io/badge/rionduljonathan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rionduljonathan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-jonathan-03060331b)
