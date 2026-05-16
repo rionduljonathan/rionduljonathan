@@ -36,3 +36,4 @@ Connect
 
 [![Email](https://img.shields.io/badge/rionduljonathan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rionduljonathan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-jonathan-03060331b)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rionduljonathan)
