@@ -9,7 +9,7 @@ Hey there! I'm Rio 👋
   Deployed as B2B SaaS on Vercel and made finals in **TechTO x Althra 2026 Hackathon**.
 - Co-Lead for Data & Marketing @**UBC Sustaingineering**. Integrating data-monitoring software into sustainable research testbeds.
 - Won 2nd place in **UBC 46th Physics Olympics**. Designed a copper thermal cooling device with a 9-member team.
-- Co-founded **M.E.C.H**, a health awareness non-profit which raised $3000 and grew to 30+ members across BC and PEI through
+- Co-founded **M.E.C.H**, a health awareness non-profit. Raised $3000 and grew to 30+ members across BC and PEI through
   fundraising campaigns, digital promotion content, and outreach that I managed.
 
 ---
