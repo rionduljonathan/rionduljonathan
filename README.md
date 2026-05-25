@@ -1,14 +1,14 @@
 Hey there! I'm Rio 👋
 
 - **BASc Environmental Engineering @UBC.** Focused on management systems, data analysis, and UI/UX design.
-- Technical Intern @[Riipen](https://www.riipen.com/). Implemented website design, grant research, and media expansion for startup companies.
+- Prev @[Riipen](https://www.riipen.com/). Implemented website design, grant research, and media expansion for startup companies.
 
 ---
 
 - **Engram** founder; a semantic AI memory layer connecting workspace apps, making company data searchable.
-  Deployed as B2B SaaS on Vercel and made finals in **TechTO x Althra 2026 Hackathon**.
+  Deployed as B2B SaaS on Vercel and made finals in the **TechTO x Althra 2026 Hackathon**.
 - Co-Lead for Data & Marketing @**UBC Sustaingineering**. Integrating data-monitoring software into sustainable research testbeds.
-- Won 2nd place in **UBC 46th Physics Olympics**. Designed a copper thermal cooling device with a 9-member team.
+- Won 2nd place in the **UBC 46th Physics Olympics**. Designed a copper thermal cooling device with a 9-member team.
 - Marketing Head @**M.E.C.H**, a health awareness non-profit. Raised $3000 for hospital foundations and grew to 30+ members across BC and PEI
   through fundraising campaigns, digital promotion content, and outreach that I managed.
 
