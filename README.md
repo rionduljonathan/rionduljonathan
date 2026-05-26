@@ -5,7 +5,7 @@ Hey there! I'm Rio 👋
 
 ---
 
-- **Engram** founder; a semantic AI memory layer connecting workspace apps, making company data searchable.
+- **Engram** founder; a semantic AI memory layer connecting workspace apps, making company data searchable with Google OAuth.
   Deployed as B2B SaaS on Vercel and made finals in the **TechTO x Althra 2026 Hackathon**.
 - Co-Lead for Data & Marketing @**UBC Sustaingineering**. Integrating data-monitoring software into sustainable research testbeds.
 - Won 2nd place in the **UBC 46th Physics Olympics**. Designed a copper thermal cooling device with a 9-member team.
