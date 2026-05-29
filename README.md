@@ -1,6 +1,6 @@
 Hey there! I'm Rio 👋
 
-- **Environmental Engineering @UBC.** Focused on management systems, data analysis, and UI/UX design.
+- **Environmental Engineering @UBC.** Focused on designing management systems, data analysis, and UI/UX design.
 - Prev. Technical Intern @[Riipen](https://www.riipen.com/). Implemented website design, grant research, and media expansion for startup companies.
 
 ---
