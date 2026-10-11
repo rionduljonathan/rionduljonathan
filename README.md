@@ -5,12 +5,12 @@ Hey there! I'm Rio 👋
 
 ---
 
+- Data Analyst @**TELUS**. Train and audit AI mapping systems by cross-referencing global user datasets against authoritative sources with GIS tools, 
+  resolving conflicting data points to help engineering teams refine mapping algorithms.
 - **Engram** founder; a semantic AI memory layer connecting workspace apps, making company data searchable with Google OAuth. Deployed as a B2B SaaS
   on Vercel and made finals @**TechTO x Althra 2026 Hackathon**.
 - Lead for Marketing & Data Analysis @**UBC Sustaingineering Design Team**. Integrating Python data-monitoring software into our research testbeds (SMRTs)
   and optimizing media interfaces for stakeholder visibility.
-- Marketing Head @**M.E.C.H**, a health awareness non-profit. Raised $3000 for hospital foundations and grew to 30+ members across BC and PEI through
-  fundraising campaigns, digital promotion content, and outreach that I managed.
 - Won 2nd place in the **UBC 46th Physics Olympics**. Designed a copper thermal cooling device with a 9-member team.
 
 ---
